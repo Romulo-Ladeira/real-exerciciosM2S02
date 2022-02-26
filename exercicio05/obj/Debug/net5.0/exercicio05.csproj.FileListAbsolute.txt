@@ -19,13 +19,13 @@ C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\bin\Debug\net5.0\ex
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\bin\Debug\net5.0\exercicio05.runtimeconfig.dev.json
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\bin\Debug\net5.0\exercicio05.dll
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\bin\Debug\net5.0\exercicio05.pdb
-C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.csproj.AssemblyReference.cache
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.AssemblyInfoInputs.cache
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.AssemblyInfo.cs
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.csproj.CoreCompileInputs.cache
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.dll
-C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\refint\exercicio05.dll
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.pdb
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.genruntimeconfig.cache
 C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\ref\exercicio05.dll
+C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\exercicio05.csproj.AssemblyReference.cache
+C:\Users\ROMULO\Documents\GitHub\exerciciosM2S02\exercicio05\obj\Debug\net5.0\refint\exercicio05.dll

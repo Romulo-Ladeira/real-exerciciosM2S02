@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NK8USO0FR/F1szMVZbVHrXM6d+I8HUGLfKM4aRIjG9cgbhtC9IyJQP8CQT9wOIgPQZ6ZZe+blzmrqnlgOS6Q5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROMULO\\Documents\\GitHub\\exerciciosM2S02\\exercicio08\\exercicio08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROMULO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
